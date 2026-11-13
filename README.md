@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Here is the complete, updated `README.md` guide. It includes a dedicated **Customization Checklist** explaining every single variable, link, username, theme, and line of text that needs to be changed when setting this up for a different GitHub account.
 
 ```markdown
@@ -107,6 +108,8 @@ jobs:
 Replace the contents of `README.md` with the template below, updating the placeholders marked with `TARGET_...`:
 
 ```markdown
+=======
+>>>>>>> 9948a47a23ca251aeadb1eafdda893885e7b6853
 <h1 align="center">Hi 👋, I'm TARGET_DISPLAY_NAME</h1>
 
 <!-- Customize roles in the 'lines=' parameter: separate lines with ';' and use '+' for spaces -->
@@ -176,6 +179,7 @@ Replace the contents of `README.md` with the template below, updating the placeh
 
 <p align="center">
   <img src="./profile-cards/activity-graph.svg" alt="Activity Graph" width="100%" />
+<<<<<<< HEAD
 </p>
 
 ```
@@ -191,3 +195,6 @@ Replace the contents of `README.md` with the template below, updating the placeh
 ```
 
 ```
+=======
+</p>
+>>>>>>> 9948a47a23ca251aeadb1eafdda893885e7b6853
